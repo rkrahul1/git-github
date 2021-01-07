@@ -1,2 +1,3 @@
 # git-github
-for understanding purpose
+This is for understanding purpose.
+
